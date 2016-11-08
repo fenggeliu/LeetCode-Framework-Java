@@ -1,0 +1,1 @@
+Classifed by algorithm and data structure used in solving the problems
