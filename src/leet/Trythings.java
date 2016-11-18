@@ -1,6 +1,7 @@
 package leet;
 
 import java.util.ArrayList;
+import java.util.Arrays;
 import java.util.List;
 
 /*
@@ -15,13 +16,11 @@ import java.util.List;
  */
 public class Trythings {
     public static void main(String[] args){
-        for(int i = 0; i < 5; i++){
-            for(int j = 5; j < 10; j++){
-                System.out.println(j);
-                System.out.println(i);
-            }
-            
-        }
+        int[] g = new int[6];
+        
+        System.out.println(Arrays.toString(g));
+        
     }
-
 }
+
+

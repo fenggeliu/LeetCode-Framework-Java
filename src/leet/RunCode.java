@@ -12,8 +12,9 @@ package leet;
 public class RunCode {
     
     public static void main(String[] args){
-        String s = "barfoothefoobarman";
-        String[] words = new String[]{"foo","bar"};
-        System.out.println(leetcode30.findSubstring(s, words));
+/*        String s = "barfoothefoobarman";
+ *       String[] words = new String[]{"foo","bar"};
+       System.out.println(leetcode30.findSubstring(s, words));
+*/      System.out.print(leetcode51.solveNQueens(5));
     }
 }
